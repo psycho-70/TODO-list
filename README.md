@@ -2,7 +2,7 @@
 
 You can add your daily work in this repository where I created a TODO list.
 
-![My Logo](/todo.png)
+![My Logo](public/todo.png)
 
 ## Features
 
